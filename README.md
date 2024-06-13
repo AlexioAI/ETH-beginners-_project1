@@ -1,4 +1,4 @@
-# ETH-beginners-_project1
+# ETH-beginners-project1
 ## Description
 
 This project allows the creation of a token using Solidity and allows it for minting and burning, with a total supply and individual balance tracked for each address. It ensures that tokens can only be burned if the sender has a sufficient balance.
